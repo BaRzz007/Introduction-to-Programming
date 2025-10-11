@@ -1,9 +1,9 @@
-from unittest import TestCase
+import unittest
 import io
 from contextlib import redirect_stdout
 
 
-class TestHelloWorld(TestCase):
+class TestHelloWorld(unittest.TestCase):
 
   def test_hello_world(self):
     captured_output = io.StringIO()
