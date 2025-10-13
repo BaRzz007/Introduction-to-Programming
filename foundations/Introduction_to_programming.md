@@ -10,8 +10,16 @@ result = add(2, 3)
 print(result) # This prints out the result 5
 ```
 ### Syntax, Errors, Logic and Flow
-#### What is syntax?
-Syntax is a set of rules that define the structure of how a language is written.  
+**<ins>Syntax<ins/**: Syntax is a set of rules that define the structure of how a language is written.
+
+**<ins>Errors<ins/>**: Errors are problems that prevent a program from running. These errors can arise from many reasons - syntax error, wrong logic, missing files, invalid inputs and so on. There are 3 main types of errors:
+ * [Syntax error](https://en.wikipedia.org/wiki/Syntax_error)
+ * [Runtime error](https://www.techslang.com/definition/what-is-a-runtime-error/)
+ * [Logical error](https://en.wikipedia.org/wiki/Logic_error)  
+
+**<ins>Logic<ins/>**: Logic (Algorithm) refers to the sequential - step-by-step - instruction a computer follows to complete a specific task or solve a problem.
+
+**<ins>Flow<ins/>**: A program flow is the order in which instructions, statements or operations are executed during the program's runtime.  
 Some example syntax:
 
 Python syntax
