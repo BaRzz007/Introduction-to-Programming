@@ -10,7 +10,7 @@ result = add(2, 3)
 print(result) # This prints out the result 5
 ```
 ### Syntax, Errors, Logic and Flow
-**<ins>Syntax<ins/**: Syntax is a set of rules that define the structure of how a language is written.
+**<ins>Syntax<ins>/**: Syntax is a set of rules that define the structure of how a language is written.
 
 **<ins>Errors<ins/>**: Errors are problems that prevent a program from running. These errors can arise from many reasons - syntax error, wrong logic, missing files, invalid inputs and so on. There are 3 main types of errors:
  * [Syntax error](https://en.wikipedia.org/wiki/Syntax_error)
