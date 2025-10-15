@@ -37,5 +37,5 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with unittest
       run: |
-        if [ -f foundations/src/hello_you.py ]; then python -m unittest tests/test_hello_you.py; fi
-        if [ -f foundations/src/hello_world.py ]; then python -m unittest tests/test_hello_world.py; fi
+        if [ -f foundations/src/hello_you.py ]; then python -m unittest tests/foundations/test_hello_you.py; fi
+        if [ -f foundations/src/hello_world.py ]; then python -m unittest tests/foundations/test_hello_world.py; fi
