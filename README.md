@@ -5,6 +5,7 @@ The repo aims to introduce the reader to programming basics using a project base
 Instructions for each project will be contained in a README.md file in the project directory
 
 # Table of Content
+You can click on a link to any page to continue were you left off!
 * [Foundations](https://github.com/BaRzz007/Introduction-to-Programming/blob/main/foundations/Introduction_to_programming.md#foundations)
   * What is programming?
   * Syntax, errors, logic and flow
